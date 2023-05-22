@@ -1,2 +1,2 @@
 # Cafe-Minamdang-Restaurant
-This is a restaurant website inspiration taken from bootstrap and mordified by me.
+This is a restaurant website inspirated by bootstrap and mordified by me.
